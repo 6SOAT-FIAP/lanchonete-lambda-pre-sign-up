@@ -11,7 +11,7 @@ class TestLambdaFunction(unittest.TestCase):
         self.context = {}
 
     def test_valid_cpf(self):
-        self.event['userName'] = '12345678901'
+        self.event['userName'] = '12345678901A'
         response = lambda_handler(self.event, self.context)
         self.assertTrue(response['response']['autoConfirmUser'])
 
