@@ -1,1 +1,3 @@
-# lanchonete_lambda_pre_sign_up
+# Lambda pre sign up
+
+Acionador lambda para validações no pré-cadastro usando AWS Cognito.
