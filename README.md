@@ -1,3 +1,3 @@
 # Lambda pre sign up
 
-## Acionador lambda para pré-cadastro usando AWS Cognito.
+Acionador lambda para pré-cadastro usando AWS Cognito.
