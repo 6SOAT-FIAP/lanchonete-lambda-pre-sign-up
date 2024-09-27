@@ -7,6 +7,6 @@ def lambda_handler(event, context):
     cpf = event['userName']
     
     if not cpf.isdigit() or len(cpf) != 11:
-        raise Exception("O CPF não é válido")
+        raise Exception("O CPF nao e valido")
 
     return event
