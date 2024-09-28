@@ -1,4 +1,4 @@
-# Acionador lambda para validações no pré-cadastro
+# Acionador lambda para validações no pré-cadastro - teste
 
 def lambda_handler(event, context):
 
